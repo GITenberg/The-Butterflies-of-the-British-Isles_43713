@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41360
 description: '"With accurately coloured figures of every species and many varieties.
   Also drawings of egg, caterpillar chrysalis and food-plant."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43713#The-Butterflies-of-the-British-Isles
 gutenberg_issued: '2013-09-13'
 gutenberg_type: Text
 identifiers:
